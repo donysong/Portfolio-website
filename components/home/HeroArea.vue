@@ -8,7 +8,7 @@
                 <div class="col-lg-12">
                     <!-- START HERO DESIGN AREA -->
                     <div class="hero-content wow fadeInUp text-center delay-0-2s">
-                        <h2>Nino Walker</h2>
+                        <h2>Dony Song</h2>
                     </div>
                     <!-- / END HERO DESIGN AREA -->
                 </div>
@@ -44,8 +44,8 @@
                 </div>
                 <div class="col-lg-3 pt-30">
                     <div class="hero-content wow fadeInUp delay-0-4s">
-                        <p>Hi, I’m Walker, a passionate UX Designer dedicated to creating user-friendly digital experiences.</p>
-                        <a class="theme-btn" href="#">Get In touch</a>
+                        <p>Hi, I’m Dony Song, a passionate Content Producer dedicated to creating video contents.</p>
+                        <a class="theme-btn" href="onlyfor1104@gmail.com">Get In touch</a>
                     </div>
                     <!-- / END HERO DESIGN AREA -->
                 </div>

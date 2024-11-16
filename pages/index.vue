@@ -30,7 +30,7 @@ import Footer from "~/layouts/Footer.vue";
 import portfolio_data from "~/data/portfolio_data";
 
 useHead({
-  title: "Nino - Modern Portfolio Nuxt js Template",
+  title: "Dony's Portfolio",
 });
 
 
