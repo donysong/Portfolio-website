@@ -11,7 +11,7 @@
                   <span class="resume-date">2020 - 2021</span>
                   <h2>Content Producer and Director (Freelancer)</h2>
                   <span>@ MBC(Munhwa Broadcasting Company)</span>
-                  <p><a href="mailto:donysong96@gmail.com">14F</a> Video Contents</p>
+                  <p><a href="https://www.youtube.com/@14FMBC">14F</a> Video Contents</p>
                 </div>
 
 
