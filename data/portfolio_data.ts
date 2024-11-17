@@ -40,6 +40,13 @@ const portfolio_data = [
 		title: "Orange Rose Flower",
 		category: "Mockup",
 	},
+	{
+		id: 6,
+		col: "4",
+		image: portfolio_img_5,
+		title: "Orange Rose Flower",
+		category: "Mockup",
+	},
 ];
 
 export default portfolio_data;
